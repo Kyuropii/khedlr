@@ -1,2 +1,2 @@
 # khedlr
-A simple, randomized scheduling 
+A simple, randomized shift scheduling 
